@@ -406,6 +406,7 @@ list(APPEND SOURCE_FILES
         displayapp/Colors.cpp
         displayapp/widgets/Counter.cpp
         displayapp/widgets/PageIndicator.cpp
+        displayapp/screens/HelloWorld.cpp
 
         ## Settings
         displayapp/screens/settings/QuickSettings.cpp
